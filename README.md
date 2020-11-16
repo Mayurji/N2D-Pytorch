@@ -6,11 +6,8 @@ Deep clustering has increasingly been demonstrating superiority over conventiona
 
 ## Visualization 
 
-### Ground Truth
+### Clustering 2D Space
 ![Ground Truth](/mnist-n2d-viz/mnist-n2d.png)
-
-### Predicted
-![Predicted](/mnist-n2d-viz/mnist-n2d-predicted.png)
 
 ### Result
 **Accuracy: 97.832**\
