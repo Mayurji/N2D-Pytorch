@@ -12,6 +12,13 @@ Deep clustering has increasingly been demonstrating superiority over conventiona
 ### Predicted
 ![Predicted](/mnist-n2d-viz/mnist-n2d-predicted.png)
 
+### Result
+**Accuracy: 97.832**
+**NMI(Normalized Mutual Information): 94.221**
+**ARS(Adjusted Random Score): 95.261**
+![Predicted](/mnist-n2d-viz/result.png)
+
+
 ## [**Original Keras Implementation**](https://github.com/rymc/n2d#abstract)
 
 ## Citation
