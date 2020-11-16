@@ -6,8 +6,10 @@ Deep clustering has increasingly been demonstrating superiority over conventiona
 
 ## Visualization 
 
+### Ground Truth
 ![Ground Truth](/results/mnist-n2d.png)
 
+### Predicted
 ![Predicted](/results/mnist-n2d-predicted.png)
 
 ## [**Original Keras Implementation**](https://github.com/rymc/n2d#abstract)
