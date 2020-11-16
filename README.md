@@ -16,6 +16,10 @@ Deep clustering has increasingly been demonstrating superiority over conventiona
 
 ![Predicted](/mnist-n2d-viz/result.png)
 
+**Comparsion over other dataset and clustering techniques**
+
+![N2D](/mnist-n2d-viz/N2D_Result.png)
+
 ## Run
 
     python n2d.py mnist 0 --umap_dim=2 --umap_neighbors=20 --manifold_learner=UMAP --save_dir=mnist-n2d-viz --umap_min_dist=0.00 --visualize
