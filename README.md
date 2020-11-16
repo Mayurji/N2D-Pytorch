@@ -9,7 +9,8 @@ Deep clustering has increasingly been demonstrating superiority over conventiona
 ### Clustering 2D Space
 ![Ground Truth](/mnist-n2d-viz/mnist-n2d.png)
 
-### Result
+## Result
+
 **Accuracy: 97.832**\
 **NMI(Normalized Mutual Information): 94.221**\
 **ARS(Adjusted Random Score): 95.261**
@@ -30,7 +31,7 @@ pip install -r requirements.txt
 
     python n2d.py mnist 0 --umap_dim=2 --umap_neighbors=20 --manifold_learner=UMAP --save_dir=mnist-n2d-viz --umap_min_dist=0.00 --visualize
 
-## [**Original Keras Implementation**](https://github.com/rymc/n2d#abstract)
+## [**Keras Implementation**](https://github.com/rymc/n2d#abstract)
 
 ## Citation
 
