@@ -10,6 +10,12 @@ Deep clustering has increasingly been demonstrating superiority over conventiona
 * The result of autoencoder's lower dimensional feature space is projected using 
 manifold learning, which represents the local structure of the data helping in creating quality clusters.
 
+## Manifold Learning Techniques
+
+* ISOMAP
+* t-SNE
+* UMAP
+
 ## Visualization 
 
 ### Clustering 2D Space
