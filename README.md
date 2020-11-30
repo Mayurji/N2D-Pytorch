@@ -12,7 +12,7 @@ manifold learning, which represents the local structure of the data helping in c
 
 ## Manifold Learning Techniques
 
-* ISOMAP
+* Isomap
 * t-SNE
 * UMAP
 
